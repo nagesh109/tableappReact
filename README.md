@@ -18,13 +18,13 @@ Functions covered:
 
 4.show data in table
 
-4. Export data as csv/ pdf file.
+5. Export data as csv/ pdf file.
 
-5.search option
+6.search option
 
-4. Filter option
+7. Filter option
 
-5. Group by option
+8. Group by option
 
-6. CRUD operations with table data
+9. CRUD operations with table data
 
